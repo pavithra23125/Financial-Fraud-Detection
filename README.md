@@ -5,9 +5,8 @@
 ### 🛡️ AI-Powered Intelligent Banking Security Platform
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="750" alt="AI Security"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/demos/neural-network.gif" width="850">
 </p>
-
 <h3>
 🚀 Detect Fraud • Protect Users • Secure Transactions
 </h3>
