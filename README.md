@@ -5,7 +5,7 @@
 ### 🛡️ AI-Powered Intelligent Banking Security Platform
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700" alt="AI Banking GIF"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700" alt="AI Security"/>
 </p>
 
 <h3>
