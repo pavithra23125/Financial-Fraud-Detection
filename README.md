@@ -5,8 +5,9 @@
 ### 🛡️ AI-Powered Intelligent Banking Security Platform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/demos/neural-network.gif" width="850">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data-science.gif" width="850">
 </p>
+
 <h3>
 🚀 Detect Fraud • Protect Users • Secure Transactions
 </h3>
